@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+
+td {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+ul {
+  padding: 0 1rem;
+}
+
+li {
+  margin: 0.5rem 0;
+  text-align: left;
+}
